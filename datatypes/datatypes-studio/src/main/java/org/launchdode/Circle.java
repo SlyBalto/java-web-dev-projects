@@ -1,7 +1,7 @@
 package org.launchdode;
 
 public class Circle {
-    public static Double getArea(Double radius) {
+    public static double getArea(double radius) {
         return Math.PI * radius * radius;
     }
 }
